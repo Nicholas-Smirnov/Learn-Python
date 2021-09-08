@@ -1,6 +1,6 @@
 # Learn Basic Python
 
-Hello everybody! It is Nick, and in these tutorials, you will be learning the basic aspects of python! 
+Hello everybody! It is Nick, and in this tutorial, you will be learning the basic aspects of python! 
 **Python** is the most widely used programming language, and it is used in many different ways, from creating discord bots, to creating simple video games.
 What makes python such a widely used language is the simplicity of the language, and I am here to teach you it!
 
@@ -27,4 +27,6 @@ Although VSC is not made specifically for python, it is a great IDE for almost a
 
 # Have fun learning!
 
-### Created by Nicholas Smirnov
+If you enjoyed this tutorial, please make sure to star this git, it means a lot! Thank you.
+
+#### Created by Nicholas Smirnov
