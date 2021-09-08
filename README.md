@@ -15,15 +15,15 @@ First, you will actually need an IDE (Integrated Development Environment). In ot
 
 ### Spyder 
 
-Spyder is an IDE that will have to be downloaded. Spyder is relatively simple to use, and you can find the link [here][https://www.spyder-ide.org/]. However, if your computer has problems with storage, the next choice might be just for you.
+Spyder is an IDE that will have to be downloaded. Spyder is relatively simple to use, and you can find the link [here](https://www.spyder-ide.org/). However, if your computer has problems with storage, the next choice might be just for you.
 
 ### Replit.com
 
-Replit.com is an online IDE that is really easy to use. Unlike spyder, it doesn't need to be downloaded. The link to the website can be found [here][https://replit.com/~].
+Replit.com is an online IDE that is really easy to use. Unlike spyder, it doesn't need to be downloaded. The link to the website can be found [here](https://replit.com/~).
 
 ### Visual Studio Code
 
-Although VSC is not made specifically for python, it is a great IDE for almost all programming languages. It is very easy to use and it is very fun to use too! Visual Studio Code can be found [here][https://code.visualstudio.com/]
+Although VSC is not made specifically for python, it is a great IDE for almost all programming languages. It is very easy to use and it is very fun to use too! Visual Studio Code can be found [here](https://code.visualstudio.com/)
 
 # Have fun learning!
 
