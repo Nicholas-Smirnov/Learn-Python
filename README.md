@@ -9,7 +9,7 @@ What makes python such a widely used language is the simplicity of the language,
 The different lessons will be split into **branches**.
 Just in case if you might not know what branches are, branches are shown above this readme file. Currently, the branch that we are in is called "Introduction". In order to change to another lesson, click on the branch, and then a dropdown will appear. Choose the next lesson, and then start learning! This is all that you have to know!
 
-#Getting Started
+# Getting Started
 
 First, you will actually need an IDE (Integrated Development Environment). In other words, where will you be programming? Here are a couple recommendations that I have for you.
 
