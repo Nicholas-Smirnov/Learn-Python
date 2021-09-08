@@ -6,4 +6,9 @@ What makes python such a widely used language is the simplicity of the language,
 
 # How This Will Work
 
-Above the readme is a fork.
+The different lessons will be split into branches.
+Just in case if you might not know what branches are, branches are shown above this readme file. Currently, the branch that we are in is called "Introduction". In order to change to another lesson, click on the branch, and then a dropdown will appear. Choose the next lesson, and then start learning!
+
+
+
+Created by Nicholas Smirnov
