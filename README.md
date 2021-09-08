@@ -25,7 +25,6 @@ Replit.com is an online IDE that is really easy to use. Unlike spyder, it doesn'
 
 Although VSC is not made specifically for python, it is a great IDE for almost all programming languages. It is very easy to use and it is very fun to use too! Visual Studio Code can be found [here][https://code.visualstudio.com/]
 
-Have fun learning!
+# Have fun learning!
 
-
-*Created by Nicholas Smirnov*
+### Created by Nicholas Smirnov*
