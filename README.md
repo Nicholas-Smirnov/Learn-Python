@@ -27,4 +27,4 @@ Although VSC is not made specifically for python, it is a great IDE for almost a
 
 # Have fun learning!
 
-### Created by Nicholas Smirnov*
+### Created by Nicholas Smirnov
