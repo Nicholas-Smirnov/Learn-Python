@@ -13,4 +13,4 @@ Just in case if you might not know what branches are, branches are shown above t
 Have fun learning!
 
 
-Created by Nicholas Smirnov
+*Created by Nicholas Smirnov*
