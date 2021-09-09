@@ -41,7 +41,7 @@ print("Hello world!")
 
 Console Output:
 
-```python
+```
 
 Hello world!
 
@@ -59,7 +59,7 @@ print(type("Hello world!"))
 
 Console Output:
 
-```python
+```
 
 <class 'str'>
 
