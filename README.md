@@ -4,5 +4,12 @@ In Python, **objects** are "things", and we work with these things. These things
 
 * **String**
   * A string is an object that is surrounded by either 
-    * Double
+    * Single Quotation Marks '
+    * Double Quotation Marks "
+    * Triple Quotation Marks '''
+  * Examples of a string include
+    * 'Hello!'
+    * "How are you?"
+    * '''I am doing amazing! '''
+* **Integer**
 
