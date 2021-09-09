@@ -38,3 +38,30 @@ In Python, printing is not physically printing out a sheet of paper, it rather o
 print("Hello world!")
 
 ```
+
+Console Output:
+
+```python
+
+Hello world!
+
+```
+
+### Can I Check What Objects I Am Printing?
+
+Yes, you actually can! In Python, there is a built in function called **type()**. The defenition of function will be explained in a later lesson, but this is how to basically use the type function.
+
+```python
+
+print(type("Hello world!"))
+
+```
+
+Console Output:
+
+```python
+
+<class 'str'>
+
+```
+
