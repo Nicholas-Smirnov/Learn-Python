@@ -19,3 +19,8 @@ In Python, **objects** are "things", and we work with these things. These things
     * 10.1
     * 100.001
     * 13.0
+
+* **Boolean** - An object that is expressed as either True or false.
+  * Examples of a boolean include:
+    * True
+    * False
