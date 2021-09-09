@@ -9,6 +9,7 @@ In Python, **objects** are "things", and we work with these things. These things
     * '''I am doing amazing! '''
 
 
+
 * **Integer** - An object that is expressed as a whole number
   * Examples of an integer include:
     * 123
@@ -16,10 +17,12 @@ In Python, **objects** are "things", and we work with these things. These things
     * 2352342
 
 
+
 * **Integer** - An object that is expressed as a whole number
   * Examples of an integer include:
     * 123
     * 1000
     * 2352342
+
 
 
