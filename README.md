@@ -34,17 +34,13 @@ In Python, **objects** are "things", and we work with these things. These things
 In Python, printing is not physically printing out a sheet of paper, it rather outputting information to the console. An example of how to print is like so:
 
 ```python
-
 print("Hello world!")
-
 ```
 
 Console Output:
 
 ```
-
 Hello world!
-
 ```
 
 ### Can I Check What Objects I Am Printing?
@@ -52,16 +48,12 @@ Hello world!
 Yes, you actually can! In Python, there is a built in function called **type()**. The defenition of function will be explained in a later lesson, but this is how to basically use the type function.
 
 ```python
-
 print(type("Hello world!"))
-
 ```
 
 Console Output:
 
 ```
-
 <class 'str'>
-
 ```
 
