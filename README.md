@@ -1,6 +1,10 @@
-# What Are Objects?
+# Objects Types
 
-In Python, **objects** are "things", and we work with these things. These things vary from numbers, to words. There are many different types of objects, and the most basic ones are listed below:
+### What are objects?
+
+In Python, **objects** are "things", and we work with these things. These things vary from numbers, to words. There are many different types of objects, and the most basic ones are listed later on.
+
+### Object Types
 
 * **String** - An object that is surrounded by quotation marks.
   * Examples of a string include:
@@ -25,7 +29,12 @@ In Python, **objects** are "things", and we work with these things. These things
     * True
     * False
 
-* **Boolean** - An object that is expressed as either True or false.
-  * Examples of a boolean include:
-    * True
-    * False
+### What is Printing?
+
+In Python, printing is not physically printing out a sheet of paper, it rather outputting information to the console. An example of how to print is like so:
+
+```python
+
+print("Hello world!")
+
+```
