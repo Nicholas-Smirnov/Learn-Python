@@ -1,6 +1,6 @@
 # What Are Objects?
 
-In Python, **objects** are "things", and we work with these things. These things vary from numbers, to words. There are many different types of objects, and they are listed below.
+In Python, **objects** are "things", and we work with these things. These things vary from numbers, to words. There are many different types of objects, and the most basic ones are listed below:
 
 * **String** - An object that is surrounded by quotation marks.
   * Examples of a string include:
@@ -19,6 +19,11 @@ In Python, **objects** are "things", and we work with these things. These things
     * 10.1
     * 100.001
     * 13.0
+
+* **Boolean** - An object that is expressed as either True or false.
+  * Examples of a boolean include:
+    * True
+    * False
 
 * **Boolean** - An object that is expressed as either True or false.
   * Examples of a boolean include:
