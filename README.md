@@ -1,8 +1,8 @@
-# Objects Types
+# Variables
 
-### What are objects?
+### What Are Variables?
 
-In Python, **objects** are "things", and we work with these things. These things vary from numbers, to words. There are many different types of objects, and the most basic ones are listed later on.
+**Variables** are values that store objects inside of them.
 
 ### Object Types
 
