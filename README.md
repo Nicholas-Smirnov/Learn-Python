@@ -8,21 +8,14 @@ In Python, **objects** are "things", and we work with these things. These things
     * "How are you?"
     * '''I am doing amazing! '''
 
-
-
-* **Integer** - An object that is expressed as a whole number
+* **Integer** - An object that is expressed as a whole number.
   * Examples of an integer include:
     * 123
     * 1000
     * 2352342
 
-
-
-* **Integer** - An object that is expressed as a whole number
-  * Examples of an integer include:
-    * 123
-    * 1000
-    * 2352342
-
-
-
+* **Float** - An object that is expressed as a number with a decimal.
+  * Examples of a float include:
+    * 10.1
+    * 100.001
+    * 13.0
