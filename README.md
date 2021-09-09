@@ -1,8 +1,8 @@
 # Learn Basic Python
 
-Hello everybody! It is Nick, and in this tutorial, you will be learning the basic aspects of python! 
+Hello everybody! It is Nick, and in this tutorial, you will be learning the basic aspects of Python! 
 **Python** is the most widely used programming language, and it is used in many different ways, from creating discord bots, to creating simple video games.
-What makes python such a widely used language is the simplicity of the language, and I am here to teach you it!
+What makes Python such a widely used language is the simplicity of the language, and I am here to teach you it!
 
 # How This Will Work
 
@@ -23,7 +23,7 @@ Replit.com is an online IDE that is really easy to use. Unlike spyder, it doesn'
 
 ### Visual Studio Code
 
-Although VSC is not made specifically for python, it is a great IDE for almost all programming languages. It is very easy to use and it is very fun to use too! Visual Studio Code can be found [here](https://code.visualstudio.com/)
+Although VSC is not made specifically for Python, it is a great IDE for almost all programming languages. It is very easy to use and it is very fun to use too! Visual Studio Code can be found [here](https://code.visualstudio.com/)
 
 # Have fun learning!
 
